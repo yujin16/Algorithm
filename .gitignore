@@ -3,6 +3,7 @@
 .vs
 *.opendb
 Baekjoon/Debug/
+Baekjoon/algorithm.cpp
 Baekjoon/*.vcxproj
 Baekjoon/*.filters
 SWExpertAcademy/Debug/
