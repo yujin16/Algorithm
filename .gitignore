@@ -2,6 +2,7 @@
 *.db
 .vs
 *.opendb
+Debug/
 Baekjoon/Debug/
 Baekjoon/algorithm.cpp
 Baekjoon/*.vcxproj
