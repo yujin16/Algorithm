@@ -2,3 +2,12 @@
 *.db
 .vs
 *.opendb
+Baekjoon/Debug/
+Baekjoon/*.vcxproj
+Baekjoon/*.filters
+SWExpertAcademy/Debug/
+SWExpertAcademy/*.vcxproj
+SWExpertAcademy/*.filters
+CodingTest/Debug
+CodingTest/*.vcxproj
+CodingTest/*.filters
