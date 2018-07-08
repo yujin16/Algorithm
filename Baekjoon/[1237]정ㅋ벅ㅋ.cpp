@@ -1,4 +1,4 @@
-/* 1237¹ø Á¤¤»¹÷¤»
+/* 1237ë²ˆ ì •ã…‹ë²…ã…‹(Input/Output)
  * https://www.acmicpc.net/problem/1237
  */
 
@@ -6,6 +6,6 @@
 using namespace std;
 
 int main() {
-	std::cout << "¹®Á¦ÀÇ Á¤´ä";
+	std::cout << "ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½";
 	return 0;
 }

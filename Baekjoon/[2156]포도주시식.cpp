@@ -1,4 +1,4 @@
-/* 2156¹ø Æ÷µµÁÖ ½Ã½Ä
+/* 2156ë²ˆ í¬ë„ì£¼ì‹œì‹(Dynamic Programming)
  * https://www.acmicpc.net/problem/2156
  */
 

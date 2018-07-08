@@ -1,4 +1,4 @@
-/* 12100¹ø 2048(Easy)
+/* 12100 2048(Easy)(BruteForce)
  * https://www.acmicpc.net/problem/12100
  */
 

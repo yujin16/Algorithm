@@ -1,4 +1,4 @@
-/* 3501¹ø ¼øÈ¯¼Ò¼ö Âª°Ô Ç¥ÇöÇÏ±â
+/* 3501ë²ˆ ìˆœí™˜ì†Œìˆ˜ì§§ê²Œí‘œí˜„í•˜ê¸°
  * https://www.swexpertacademy.com/main/code/problem/problemDetail.do
  */
 
@@ -16,14 +16,14 @@ int main() {
 
 		int quotient = inputP / inputQ;
 		int remainder = inputP % inputQ;
-		cout << "#" << t << " " << quotient;	// ¼Ò¼öÁ¡ À§ Ãâ·Â
+		cout << "#" << t << " " << quotient;	// ï¿½Ò¼ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ï¿½
 
-		if (remainder == 0) {		// ³ª´©¾î ¶³¾îÁö¸é ²ôÀ¿
+		if (remainder == 0) {		// ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½
 			cout << endl;
 			continue;
 		}
 
-		cout << ".";		// ¼Ò¼öÁ¡ÀÌ »ý±â¸é Ãâ·Â
+		cout << ".";		// ï¿½Ò¼ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½
 		vector<int> quotient_arr;
 		vector<int> remainder_arr(inputQ, -1);
 		remainder_arr[remainder] = 0;
@@ -37,14 +37,14 @@ int main() {
 
 			quotient_arr.push_back(quotient);
 
-			// ³ª´©¾î ¶³¾îÁö´Â °æ¿ì
+			// ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½
 			if (remainder == 0) {
 				for (int i = 0; i < quotient_arr.size(); i++)
 					cout << quotient_arr[i];
 				break;
 			}
 
-			// ¹Ýº¹µÇ´Â ±¸°£À» Ã£¾ÒÀ» °æ¿ì Ãâ·Â
+			// ï¿½Ýºï¿½ï¿½Ç´ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ Ã£ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½
 			if (remainder_arr[remainder] >= 0) {
 				int cycle_index = remainder_arr[remainder];
 				for (int i = 0; i < cycle_index; i++)
@@ -56,7 +56,7 @@ int main() {
 				break;
 			}
 
-			// ¹Ýº¹µÇ´Â ±¸°£À» ¸øÃ£¾ÒÀ» °æ¿ì
+			// ï¿½Ýºï¿½ï¿½Ç´ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½Ã£ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½
 			if (remainder_arr[remainder] < 0) {
 				remainder_arr[remainder] = index;
 				index++;

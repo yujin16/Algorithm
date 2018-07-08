@@ -1,4 +1,4 @@
-/* 11403¹ø °æ·ÎÃ£±â
+/* 11403ë²ˆ ê²½ë¡œì°¾ê¸°(DFS/BFS)
  * https://www.acmicpc.net/problem/11403
  */
 

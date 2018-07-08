@@ -1,4 +1,4 @@
-/* 2331¹ø ¹Ýº¹¼ö¿­
+/* 2331ë²ˆ ë°˜ë³µìˆ˜ì—´(BruteForce)
  * https://www.acmicpc.net/problem/2331
  */
 

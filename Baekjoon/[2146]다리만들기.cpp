@@ -1,4 +1,4 @@
-/* 2156¹ø ´Ù¸® ¸¸µé±â 
+/* 2146 ë‹¤ë¦¬ë§Œë“¤ê¸°(DFS/BFS)
 * https://www.acmicpc.net/problem/2146
 */
 

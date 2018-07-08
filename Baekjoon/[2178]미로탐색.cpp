@@ -1,4 +1,4 @@
-/* 2178╧Ь ╧л╥не╫╩Ж
+/* 2178К╡┬ К╞╦К║°М┐░Л┐┴(DFS/BFS)
  * https://www.acmicpc.net/problem/2178
  */
 

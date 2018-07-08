@@ -1,4 +1,4 @@
-/* 1699น๘ มฆฐ๖ผ๖ภว วี
+/* 1699๋ฒ ์ ๊ณฑ์์ํ•ฉ(Dynamic Programming)
  * https://www.acmicpc.net/problem/1699
  */
 

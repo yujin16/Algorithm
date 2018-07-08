@@ -1,4 +1,4 @@
-/* 2819¹ø °İÀÚÆÇÀÇ ¼ıÀÚ ÀÌ¾î ºÙÀÌ±â
+/* 2819ë²ˆ ê²©ìíŒì˜ìˆ«ìì´ì–´ë¶™ì´ê¸°
  * https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV7I5fgqEogDFAXB
  */
 
@@ -22,7 +22,7 @@ int main() {
 			for (int j = 0; j < 4; j++)
 				cin >> map[i][j];
 
-		stack<pair<int, int> > pointStack;	// xÁÂÇ¥, yÁÂÇ¥
+		stack<pair<int, int> > pointStack;	// xï¿½ï¿½Ç¥, yï¿½ï¿½Ç¥
 		stack<pair<int, int> > countStack;	// num, moveCount(depth)
 		for (int i = 0; i < 4; i++) {
 			for (int j = 0; j < 4; j++) {

@@ -1,4 +1,4 @@
-/* 2741¹ø NÂï±â
+/* 2741ë²ˆ Nì°ê¸°(Input/Output)
  * https://www.acmicpc.net/problem/2741
  */
 

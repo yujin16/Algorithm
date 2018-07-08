@@ -1,4 +1,4 @@
-/* 1808¹ø ÁöÈñÀÇ °íÀå³­ °è»ê±â
+/* 1808ë²ˆ ì§€í¬ì˜ê³ ì¥ë‚œê³„ì‚°ê¸°
  * https://www.swexpertacademy.com/main/code/problem/problemDetail.do
  */
 

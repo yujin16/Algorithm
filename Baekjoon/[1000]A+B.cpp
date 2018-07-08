@@ -1,4 +1,4 @@
-/* 1000¹ø A+B
+/* 1000ë²ˆ A+B(Input/Output)
  * https://www.acmicpc.net/problem/1000
  */
 

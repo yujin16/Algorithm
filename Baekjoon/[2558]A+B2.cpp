@@ -1,4 +1,4 @@
-/* 2558¹ø A+B 2
+/* 2558ë²ˆ A+B2(Input/Output)
  * https://www.acmicpc.net/problem/2557
  */
 

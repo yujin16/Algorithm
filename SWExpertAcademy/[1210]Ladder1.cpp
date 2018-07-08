@@ -1,4 +1,4 @@
-/* 1210¹ø Ladder1
+/* 1210ë²ˆ Ladder1
  * https://www.swexpertacademy.com/main/code/problem/problemDetail.do
  */
 

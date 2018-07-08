@@ -1,4 +1,4 @@
-/* 10172¹ø °³
+/* 10172ë²ˆ ê°œ(Input/Output)
  * https://www.acmicpc.net/problem/10172
  */
 

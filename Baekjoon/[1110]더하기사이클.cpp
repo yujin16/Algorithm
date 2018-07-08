@@ -1,4 +1,4 @@
-/* 1110╧Ь ╢Уго╠Б ╩Гюле╛
+/* 1110К╡┬ К█■М∙≤Й╦╟Л┌╛Л²╢М│╢(BruteForce)
  * https://www.acmicpc.net/problem/1110
  */
 

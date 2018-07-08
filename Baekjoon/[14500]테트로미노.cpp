@@ -1,4 +1,4 @@
-/* 14500¹ø Å×Æ®·Î¹Ì³ë
+/* 14500ë²ˆ í…ŒíŠ¸ë¡œë¯¸ë…¸(DFS/BFS)
  * https://www.acmicpc.net/problem/14500
  */
 
@@ -47,19 +47,19 @@ int main() {
 			visited[i][j] = true;
 			dfs(map, visited, i, j, map[i][j], 1);
 
-			if (i + 2 < inputN && j + 1 < inputM) {	//¤¿
+			if (i + 2 < inputN && j + 1 < inputM) {	//ï¿½ï¿½
 				int sum = map[i][j] + map[i + 1][j] + map[i + 2][j] + map[i + 1][j + 1];
 				result = MAX(result, sum);
 			}
-			if (i + 2 < inputN && j - 1 >= 0) { // ¤Ã
+			if (i + 2 < inputN && j - 1 >= 0) { // ï¿½ï¿½
 				int sum = map[i][j] + map[i + 1][j] + map[i + 1][j - 1] + map[i + 2][j];
 				result = MAX(result, sum);
 			}
-			if (i + 1 < inputN && j + 2 < inputM) { // ¤Ì
+			if (i + 1 < inputN && j + 2 < inputM) { // ï¿½ï¿½
 				int sum = map[i][j] + map[i][j + 1] + map[i + 1][j + 1] + map[i][j + 2];
 				result = MAX(result, sum);
 			}
-			if (i - 1 >= 0 && j + 2 < inputM) {	//¤Ç
+			if (i - 1 >= 0 && j + 2 < inputM) {	//ï¿½ï¿½
 				int sum = map[i][j] + map[i][j + 1] + map[i - 1][j + 1] + map[i][j + 2];
 				result = MAX(result, sum);
 			}

@@ -1,4 +1,4 @@
-/* 1600¹ø ¸»ÀÌ µÇ°íÇÂ ¿ø¼şÀÌ
+/* 1600ë²ˆ ë§ì´ë˜ê³ í”ˆì›ìˆ­ì´(DFS/BFS)
  * https://www.acmicpc.net/problem/1600
  */
 
@@ -40,7 +40,7 @@ int bfs(vector<vector<int> > &map) {
 		int x = queue.front().node_x, y = queue.front().node_y, k = queue.front().node_k;
 		queue.pop();
 
-		// monkeyÀÌµ¿(1Ä­¾¿ ÀÌµ¿)
+		// monkeyï¿½Ìµï¿½(1Ä­ï¿½ï¿½ ï¿½Ìµï¿½)
 		for (int i = 0; i < 4; i++) {
 			int newX = x + dir_x_monkey[i], newY = y + dir_y_monkey[i];
 			if (isInsideBoundary(newX, newY) && map[newX][newY] != 1 && dp[x][y][k] + 1 < dp[newX][newY][k]) {
@@ -49,7 +49,7 @@ int bfs(vector<vector<int> > &map) {
 			}
 		}
 
-		// horseÀÌµ¿(³ªÀÌÆ® ÀÌµ¿)
+		// horseï¿½Ìµï¿½(ï¿½ï¿½ï¿½ï¿½Æ® ï¿½Ìµï¿½)
 		for (int i = 0; i < 8; i++) {
 			int newX = x + dir_x_horse[i], newY = y + dir_y_horse[i];
 			if (isInsideBoundary(newX, newY) && k<inputK && map[newX][newY] != 1 && dp[x][y][k] + 1 < dp[newX][newY][k + 1]) {

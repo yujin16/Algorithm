@@ -1,4 +1,4 @@
-/* 1003¹ø ÇÇº¸³ªÄ¡ ÇÔ¼ö
+/* 1003ë²ˆ í”¼ë³´ë‚˜ì¹˜í•¨ìˆ˜(Dynamic Programming)
  * https://www.acmicpc.net/problem/1003
  */
 

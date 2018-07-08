@@ -1,4 +1,4 @@
-/* 9096¹ø 1, 2, 3 ´õÇÏ±â
+/* 9096ë²ˆ 1,2,3ì˜¤ë¥´ê¸°(Dynamic Programming)
  * https://www.acmicpc.net/problem/9095
  */
 

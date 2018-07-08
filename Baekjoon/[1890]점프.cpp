@@ -1,4 +1,4 @@
-/* 1890╧Ь а║га
+/* 1890К╡┬ Л═░М■└(Dynamic Programming)
  * https://www.acmicpc.net/problem/1890
  */
 

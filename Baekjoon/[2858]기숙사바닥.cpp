@@ -1,4 +1,4 @@
-/* 2858¹ø ±â¼÷»ç ¹Ù´Ú
+/* 2858ë²ˆ ê¸°ìˆ™ì‚¬ë°”ë‹¥(BruteForce)
  * https://www.acmicpc.net/problem/2858
  */
 

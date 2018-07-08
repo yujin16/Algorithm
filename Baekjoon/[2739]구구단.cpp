@@ -1,4 +1,4 @@
-/* 2739¹ø ±¸±¸´Ü
+/* 2739ë²ˆ êµ¬êµ¬ë‹¨(Input/Output)
  * https://www.acmicpc.net/problem/2739
  */
 

@@ -1,4 +1,4 @@
-/* 1398¹ø µ¿Àü¹®Á¦
+/* 1398ë²ˆ ë™ì „ë¬¸ì œ(Dynamic Programming)
  * https://www.acmicpc.net/problem/1398
  */
 

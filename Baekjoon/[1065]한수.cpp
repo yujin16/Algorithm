@@ -1,4 +1,4 @@
-/* 1065¹ø ÇÑ¼ö
+/* 1065ë²ˆ í•œìˆ˜(BruteForce)
  * https://www.acmicpc.net/problem/1065
  */
 

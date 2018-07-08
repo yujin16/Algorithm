@@ -1,4 +1,4 @@
-/* 11048╧Ь юл╣©го╠Б
+/* 11048К╡┬ Л²╢К▐≥М∙≤Й╦╟(Dynamic Programming)
  * https://www.acmicpc.net/problem/11048
  */
 

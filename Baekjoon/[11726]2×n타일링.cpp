@@ -1,4 +1,4 @@
-/* 11726¹ø 2xn Å¸ÀÏ¸µ
+/* 11726ë²ˆ 2xníƒ€ì¼ë§(Dynamic Programming)
  * https://www.acmicpc.net/problem/11726
  */
 

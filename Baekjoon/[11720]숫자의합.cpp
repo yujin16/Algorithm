@@ -1,4 +1,4 @@
-/* 11720¹ø ¼ıÀÚÀÇ ÇÕ
+/* 11720ë²ˆ ìˆ«ìì˜í•©(Input/Output)
  * https://www.acmicpc.net/problem/11720
  */
 

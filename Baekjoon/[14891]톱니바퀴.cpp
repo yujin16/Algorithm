@@ -1,4 +1,4 @@
-/* 14891¹ø Åé´Ï¹ÙÄû
+/* 14891ë²ˆ í†±ë‹ˆë°”í€´(Simulation)
  * https://www.acmicpc.net/problem/14891
  */
 

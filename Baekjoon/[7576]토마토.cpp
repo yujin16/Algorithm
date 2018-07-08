@@ -1,4 +1,4 @@
-/* 7576¹ø Åä¸¶Åä
+/* 7576ë²ˆ í† ë§ˆí† (DFS/BFS)
  * https://www.acmicpc.net/problem/7576
  */
 

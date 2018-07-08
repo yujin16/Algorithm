@@ -1,4 +1,4 @@
-/* 14501Ήψ Επ»η
+/* 14501λ² ν‡΄μ‚¬(Dynamic Programming)
  * https://www.acmicpc.net/problem/14501
  */
 

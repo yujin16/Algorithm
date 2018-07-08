@@ -1,4 +1,4 @@
-/* 11057¹ø ¿À¸£¸·¼ö
+/* 11057ë²ˆ ì˜¤ë¥´ë§‰ìˆ˜(Dynamic Programming)
  * https://www.acmicpc.net/problem/11057
  */
 

@@ -1,4 +1,4 @@
-/* 2667¹ø ´ÜÁö ¹øÈ£ ºÙÀÌ±â
+/* 2667ë²ˆ ë‹¨ì§€ë²ˆí˜¸ë¶™ì´ê¸°(DFS/BFS)
  * https://www.acmicpc.net/problem/2667
  */
 

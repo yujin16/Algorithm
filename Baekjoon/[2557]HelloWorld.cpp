@@ -1,4 +1,4 @@
-/* 2557¹ø Hello World
+/* 2557ë²ˆ Hello World(Input/Output)
  * https://www.acmicpc.net/problem/2557
  */
 

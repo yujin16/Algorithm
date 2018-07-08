@@ -1,4 +1,4 @@
-/* 9498¹ø ½ÃÇè ¼ºÀû
+/* 9498ë²ˆ ì‹œí—˜ì„±ì (Input/Output)
  * https://www.acmicpc.net/problem/9498
  */
 

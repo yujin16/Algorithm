@@ -1,4 +1,4 @@
-/* 11724¹ø ¿¬°á ¿ä¼ÒÀÇ °³¼ö
+/* 11724ë²ˆ ì—°ê²°ìš”ì†Œì˜ê°œìˆ˜(DFS/BFS)
  * https://www.acmicpc.net/problem/11724
  */
 

@@ -1,4 +1,4 @@
-/* 10451¹ø ¼ø¿­ »çÀÌÅ¬
+/* 10451ë²ˆ ìˆœì—´ì‚¬ì´í´(DFS/BFS)
  * https://www.acmicpc.net/problem/10451
  */
 

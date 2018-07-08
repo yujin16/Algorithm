@@ -1,4 +1,4 @@
-/* 1546¹ø Æò±Õ
+/* 1546ë²ˆ í‰ê· (BruteForce)
  * https://www.acmicpc.net/problem/1546
  */
 

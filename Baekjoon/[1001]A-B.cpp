@@ -1,4 +1,4 @@
-/* 1001¹ø A-B
+/* 1001ë²ˆ A-B(Input/Output)
  * https://www.acmicpc.net/problem/1001
  */
 

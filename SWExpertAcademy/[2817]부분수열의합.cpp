@@ -1,4 +1,4 @@
-/* 2817¹ø ºÎºĞ ¼ö¿­ÀÇ ÇÕ
+/* 2817ë²ˆ ë¶€ë¶„ìˆ˜ì—´ì˜í•©
  * https://www.swexpertacademy.com/main/code/problem/problemDetail.do
  */
 

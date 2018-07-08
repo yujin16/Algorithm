@@ -1,4 +1,4 @@
-/* 2555¹ø »ıÀÏ Ãâ·ÂÇÏ±â
+/* 2555ë²ˆ ìƒì¼ì¶œë ¥í•˜ê¸°(Input/Output)
  * https://www.acmicpc.net/problem/2555
  */
 

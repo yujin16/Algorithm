@@ -1,4 +1,4 @@
-/* 1912╧Ь ©╛╪с гу
+/* 1912К╡┬ Л≈╟Л├█М∙╘(Dynamic Programming)
  * https://www.acmicpc.net/problem/1546
  */
 

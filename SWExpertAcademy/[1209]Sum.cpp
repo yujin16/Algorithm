@@ -1,4 +1,4 @@
-/* 1209¹ø Sum
+/* 1209ë²ˆ Sum
  * https://www.swexpertacademy.com/main/code/problem/problemDetail.do
  */
 

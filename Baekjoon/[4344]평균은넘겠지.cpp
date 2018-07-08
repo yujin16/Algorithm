@@ -1,4 +1,4 @@
-/* 4344╧Ь фР╠ую╨ Ёя╟заЖ
+/* 4344К╡┬ М▐┴Й╥═Л²─К└≤Й╡═Л╖─(BruteForce)
  * https://www.acmicpc.net/problem/4344
  */
 

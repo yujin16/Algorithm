@@ -1,4 +1,4 @@
-/* 1012¹ø À¯±â³ó ¹èÃß
+/* 1012ë²ˆ ìœ ê¸°ë†ë°°ì¶”(DFS/BFS)
  * https://www.acmicpc.net/problem/1012
  */
 

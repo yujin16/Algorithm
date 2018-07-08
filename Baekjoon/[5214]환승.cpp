@@ -1,4 +1,4 @@
-/* 5214¹ø È¯½Â
+/* 5214ë²ˆ í™˜ìŠ¹(DFS/BFS)
  * https://www.acmicpc.net/problem/5214
  */
 

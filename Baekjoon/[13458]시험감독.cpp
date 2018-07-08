@@ -1,4 +1,4 @@
-/* 13458¹ø ½ÃÇè °¨µ¶
+/* 13458ë²ˆ ì‹œí—˜ê°ë…(BruteForce)
  * https://www.acmicpc.net/problem/13458
  */
 

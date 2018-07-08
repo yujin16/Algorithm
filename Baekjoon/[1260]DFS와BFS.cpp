@@ -1,4 +1,4 @@
-/* 1260¹ø DFS¿Í BFS
+/* 1260ë²ˆ DFSê³¼BFS(DFS/BFS)
  * https://www.acmicpc.net/problem/1260
  */
 

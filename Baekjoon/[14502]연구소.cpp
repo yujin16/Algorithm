@@ -1,4 +1,4 @@
-/* 14502¹ø ¿¬±¸¼Ò
+/* 14502ë²ˆ ì—°êµ¬ì†Œ(DFS/BFS)
  * https://www.acmicpc.net/problem/14502
  */
 

@@ -1,4 +1,4 @@
-/* 2011¹ø ¾ÏÈ£ÄÚµå
+/* 2011ë²ˆ ì•”í˜¸ì½”ë“œ(Dynamic Programming)
 * https://www.acmicpc.net/problem/2011
 */
 

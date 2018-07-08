@@ -1,4 +1,4 @@
-/* 14889�� ��ŸƮ�� ��ũ
+/* 14889번 스타트와링크(BruteForce)
  * https://www.acmicpc.net/problem/14889
  */
 

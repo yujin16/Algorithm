@@ -1,4 +1,4 @@
-/* 14503¹ø ·Îº¿ Ã»¼Ò±â
+/* 14503ë²ˆ ë¡œë´‡ì²­ì†Œê¸°(Simulation)
  * https://www.acmicpc.net/problem/14503
  */
 
@@ -24,7 +24,7 @@ int main() {
 		map[posX][posY] = 2;
 		int newX = 0, newY = 0, newD = 0;
 
-		// ³× ¹æÇâ Áß Ã»¼ÒÇÒ °÷ÀÌ ÇÑ °÷ÀÌ¶óµµ ÀÖÀ¸¸é go=false
+		// ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ Ã»ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ï¿½Ì¶ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ go=false
 		bool go = true;
 		for (int i = 0; i < 4; i++) {
 			newX = posX + dirX[i];

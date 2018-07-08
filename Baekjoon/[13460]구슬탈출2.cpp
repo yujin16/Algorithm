@@ -1,4 +1,4 @@
-/* 13460¹ø ±¸½½Å»Ãâ1
+/* 13460 êµ¬ìŠ¬íƒˆì¶œ2(DFS/BFS)
  * https://www.acmicpc.net/problem/13460
  */
 

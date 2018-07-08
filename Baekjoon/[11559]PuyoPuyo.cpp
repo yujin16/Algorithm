@@ -1,4 +1,4 @@
-/* 11559¹ø Puyo Puyo
+/* 11559ë²ˆ Puyo Puyo(Simulation)
  * https://www.acmicpc.net/problem/11559
  */
 

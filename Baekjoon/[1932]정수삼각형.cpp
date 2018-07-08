@@ -1,4 +1,4 @@
-/* 1932¹ø Á¤¼ö »ï°¢Çü
+/* 1932ë²ˆ ì •ìˆ˜ì‚¼ê°í˜•(Dynamic Programming)
  * https://www.acmicpc.net/problem/1932
  */
 

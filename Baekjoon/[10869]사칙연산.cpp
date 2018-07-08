@@ -1,4 +1,4 @@
-/* 10869¹ø »çÄ¢¿¬»ê
+/* 10869ë²ˆ ì‚¬ì¹™ì—°ì‚°(Input/Output)
  * https://www.acmicpc.net/problem/10869
  */
 

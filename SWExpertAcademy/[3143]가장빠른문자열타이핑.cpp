@@ -1,4 +1,4 @@
-/* 3143¹ø °¡Àå ºü¸¥ ¹®ÀÚ¿­ Å¸ÀÌÇÎ
+/* 3143ë²ˆ ê°€ì¥ë¹ ë¥¸ë¬¸ìì—´íƒ€ì´í•‘
  * https://www.swexpertacademy.com/main/code/problem/problemDetail.do
  */
 

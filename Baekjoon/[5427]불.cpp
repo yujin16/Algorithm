@@ -1,4 +1,4 @@
-/* 5427¹ø ºÒ
+/* 5427ë²ˆ ë¶ˆ(DFS/BFS)
  * https://www.acmicpc.net/problem/5427
  */
 

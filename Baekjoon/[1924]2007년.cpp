@@ -1,4 +1,4 @@
-/* 1924¹ø 2007³â
+/* 1924ë²ˆ 2007ë…„(Input/Output)
  * https://www.acmicpc.net/problem/1924
  */
 

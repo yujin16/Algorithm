@@ -1,4 +1,4 @@
-/* 3190¹ø ¹ì
+/* 3190ë²ˆ ë±€(Simulation)
  * https://www.acmicpc.net/problem/3190
  */
 
@@ -48,26 +48,26 @@ int main() {
 	int rotate_dir = rotate.front().second;
 	rotate.pop();
 	while (!die) {
-		// ¸Ó¸® À§Ä¡ ±¸ÇÏ±â
+		// ï¿½Ó¸ï¿½ ï¿½ï¿½Ä¡ ï¿½ï¿½ï¿½Ï±ï¿½
 		cur_x += dir_x[move_index];
 		cur_y += dir_y[move_index];
 		time++;
 
-		// º®¿¡ ºÎµúÈ÷¸é Á¾·á
+		// ï¿½ï¿½ï¿½ï¿½ ï¿½Îµï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½
 		if (cur_x < 0 || cur_x >= inputN || cur_y < 0 || cur_y >= inputN) { die = true; break; }
 
-		// ÀÚ½ÅÀÇ ¸ö¿¡ ºÎµúÈ÷¸é Á¾·á
+		// ï¿½Ú½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½Îµï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½
 		for (int i = 1; i < snake.size(); i++)
 			if (snake[i].first == cur_x && snake[i].second == cur_y) { die = true; break; }
 
-		// ¸Ó¸® ÀÌµ¿ÇÏ°í »ç°ú ¾øÀ¸¸é ²¿¸® ÀÚ¸£±â
+		// ï¿½Ó¸ï¿½ ï¿½Ìµï¿½ï¿½Ï°ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½Ú¸ï¿½ï¿½ï¿½
 		snake.push_front(make_pair(cur_x, cur_y));
 		if (!map[cur_x][cur_y])
 			snake.pop_back();
 		else
 			map[cur_x][cur_y] = false;
 
-		// ¹æÇâ ¹Ù²Ù±â
+		// ï¿½ï¿½ï¿½ï¿½ ï¿½Ù²Ù±ï¿½
 		if (rotate_time == time) {
 			move_index += rotate_dir;
 			if (move_index < 0) move_index = 3;

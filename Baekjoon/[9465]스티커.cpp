@@ -1,4 +1,4 @@
-/* 9465¹ø ½ºÆ¼Ä¿
+/* 9465ë²ˆ ìŠ¤í‹°ì»¤(Dynamic Programming)
  * https://www.acmicpc.net/problem/9465
  */
 

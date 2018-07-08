@@ -1,4 +1,4 @@
-/* 10951¹ø A+B 4
+/* 10951ë²ˆ A+B4(Input/Output)
  * https://www.acmicpc.net/problem/10951
  */
 

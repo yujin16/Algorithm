@@ -1,4 +1,4 @@
-/* 3074¹ø ÀÔ±¹ ½É»ç
+/* 3074ë²ˆ ìž…êµ­ì‹¬ì‚¬
  * https://www.swexpertacademy.com/main/code/problem/problemDetail.do
  */
 

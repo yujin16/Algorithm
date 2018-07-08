@@ -1,4 +1,4 @@
-/* 8393¹ø ÇÕ
+/* 8393ë²ˆ í•©(Input/Output)
  * https://www.acmicpc.net/problem/8393
  */
 

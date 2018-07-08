@@ -1,4 +1,4 @@
-/* 1463¹ø 1·Î ¸¸µé±â
+/* 1463ë²ˆ 1ë¡œë§Œë“¤ê¸°(Dynamic Programming)
  * https://www.acmicpc.net/problem/1463
  */
 

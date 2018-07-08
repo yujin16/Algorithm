@@ -1,4 +1,4 @@
-/* 10844¹ø ½¬¿î °è´Ü¼ö
+/* 10844ë²ˆ ì‰¬ìš´ê³„ë‹¨ìˆ˜(Dynamic Programming)
  * https://www.acmicpc.net/problem/10844
  */
 

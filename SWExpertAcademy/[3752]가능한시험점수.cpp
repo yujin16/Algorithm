@@ -1,4 +1,4 @@
-/* 3752¹ø °¡´ÉÇÑ ½ÃÇè Á¡¼ö
+/* 3752ë²ˆ ê°€ëŠ¥í•œì‹œí—˜ì ìˆ˜
  * https://www.swexpertacademy.com/main/code/problem/problemDetail.do
  */
 

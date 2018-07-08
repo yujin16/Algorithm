@@ -1,4 +1,4 @@
-/* 1860¹ø Áø±âÀÇ ÃÖ°í±Ş ºØ¾î»§
+/* 1860ë²ˆ ì§„ê¸°ì˜ìµœê³ ê¸‰ë¶•ì–´ë¹µ
  * https://www.swexpertacademy.com/main/code/problem/problemDetail.do
  */
 
@@ -30,7 +30,7 @@ int main() {
 		int bread = 0;
 		bool success = true;
 		for (int i = 0; i <= max_time && success; i++) {
-			//printf("%dÃÊ %d¸í %d°³\n", i, person[i], bread);
+			//printf("%dï¿½ï¿½ %dï¿½ï¿½ %dï¿½ï¿½\n", i, person[i], bread);
 			if (i != 0 && i%inputM == 0)
 				bread += inputK;
 			bread -= person[i];

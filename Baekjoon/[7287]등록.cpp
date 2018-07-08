@@ -1,4 +1,4 @@
-/* 7287¹ø µî·Ï
+/* 7287ë²ˆ ë“±ë¡(Input/Output)
  * https://www.acmicpc.net/problem/7287
  */
 

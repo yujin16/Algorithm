@@ -1,4 +1,4 @@
-/* 10718¹ø We love kriii
+/* 10718ë²ˆ We love kriii(Input/Output)
  * https://www.acmicpc.net/problem/10718
  */
 
@@ -6,7 +6,7 @@
 using namespace std;
 
 int main() {
-	std::cout << "°­ÇÑÄ£±¸ ´ëÇÑÀ°±º" << endl;
-	std::cout << "°­ÇÑÄ£±¸ ´ëÇÑÀ°±º" << endl;
+	std::cout << "ï¿½ï¿½ï¿½ï¿½Ä£ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½" << endl;
+	std::cout << "ï¿½ï¿½ï¿½ï¿½Ä£ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½" << endl;
 	return 0;
 }

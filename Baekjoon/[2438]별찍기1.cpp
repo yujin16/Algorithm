@@ -1,4 +1,4 @@
-/* 2438¹ø º°Âï±â1
+/* 2438ë²ˆ ë³„ì°ê¸°1(Input/Output)
  * https://www.acmicpc.net/problem/2438
  */
 

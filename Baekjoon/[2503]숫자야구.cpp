@@ -1,4 +1,4 @@
-/* 2503¹ø ¼ıÀÚ ¾ß±¸
+/* 2503ë²ˆ ìˆ«ìì•¼êµ¬(BruteForce)
  * https://www.acmicpc.net/problem/2503
  */
 

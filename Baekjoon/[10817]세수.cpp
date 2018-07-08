@@ -1,4 +1,4 @@
-/* 10817¹ø ¼¼ ¼ö
+/* 10817ë²ˆ ì„¸ìˆ˜(Input/Output)
  * https://www.acmicpc.net/problem/10817
  */
 

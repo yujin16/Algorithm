@@ -1,4 +1,4 @@
-/* 2579¹ø °è´Ü ¿À¸£±â
+/* 2579ë²ˆ ê³„ë‹¨ì˜¤ë¥´ê¸°(Dynamic Programming)
  * https://www.acmicpc.net/problem/2579
  */
 

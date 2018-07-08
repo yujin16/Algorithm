@@ -1,4 +1,4 @@
-/* 14888¹ø ¿¬»êÀÚ ³¢¿ö³Ö±â
+/* 14888ë²ˆ ì—°ì‚°ìžë¼ì›Œë„£ê¸°(BruteForce)
  * https://www.acmicpc.net/problem/14888
  */
 

@@ -1,4 +1,4 @@
-/* 10998¹ø AxB
+/* 10998ë²ˆ AxB(Input/Output)
  * https://www.acmicpc.net/problem/10998
  */
 

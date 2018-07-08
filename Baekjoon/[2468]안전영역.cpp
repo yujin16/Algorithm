@@ -1,4 +1,4 @@
-/* 2468¹ø ¾ÈÀü¿µ¿ª
+/* 2468ë²ˆ ì•ˆì •ì˜ì—­(DFS/BFS)
  * https://www.acmicpc.net/problem/2468
  */
 
