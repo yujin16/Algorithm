@@ -1,4 +1,4 @@
-/* 2583번 영역구하기
+/* 2583번 영역구하기(DFS/BFS)
  * https://www.acmicpc.net/problem/2583
  */
 
