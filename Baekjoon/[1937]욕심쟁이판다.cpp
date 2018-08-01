@@ -1,4 +1,4 @@
-/* 1937 욕심쟁이판다()
+/* 1937 욕심쟁이판다(Dynamic Programming)
  * https://www.acmicpc.net/problem/1937
  */
 
