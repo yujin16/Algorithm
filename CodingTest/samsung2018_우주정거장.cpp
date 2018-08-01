@@ -1,3 +1,7 @@
+/* 2_우주정거장
+ * 2018 삼성전자 대학생 프로그래밍 경진대회 예선
+ */
+
 #include <iostream>
 #include <vector>
 #include <stack>
