@@ -37,11 +37,10 @@ void solve(int S, int I) {
     }
 
     if (point != 0) {
-        for (int p1 = 0; p1 < point; p1++) {
+        for (int p1 = 0; p1 <= point; p1++) {
             int p2 = point - p1;
             int s = S + p1, i = I + p2;
-            if (s >= 1000)
-                s = 1000;
+            if (s >= 1000) s = 1000;
             if(i >= 1000) i = 1000;
             solve(s, i);
         }
@@ -50,7 +49,7 @@ void solve(int S, int I) {
     for (int i = 0; i < v.size(); i++)
         quest[v[i]].CLEAR = false;
 
-        answer = max(answer, dp[S][I]);
+    answer = max(answer, dp[S][I]);
 }
 
 int main() {
