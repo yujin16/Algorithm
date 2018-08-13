@@ -11,10 +11,10 @@ int main() {
     cin >> Testcase;
 
     for (int t = 1; t <= Testcase; t++) {
-        int inputN;
+        long long inputN;
         cin >> inputN;
 
-        int sub = 4;
+        long long sub = 4;
         inputN -= 2;
         string answer = "";
 
