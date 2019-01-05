@@ -5,66 +5,44 @@
 #include <iostream>
 #include <vector>
 #include <queue>
-#include <climits>
 using namespace std;
 
+int N, K, M;
+vector<vector<int> > map(101001);
+vector<bool> visited(101001, false);
+vector<int> depth(101001, -1);
+
 int main() {
-	int inputN, inputK, inputM;
-	cin >> inputN >> inputK >> inputM;
+    scanf("%d %d %d", &N, &K, &M);
+    for (int i = 100001; i < 100001+M; i++) {
+        for (int j = 0; j < K; j++) {
+            int in;
+            scanf("%d", &in);
+            map[i].push_back(in);
+            map[in].push_back(i);
+        }
+    }
 
-	vector<vector<int> > map(inputM, vector<int>(inputK, 0));
-	vector<vector<int> > connected(inputN + 1, vector<int>());
-	for (int m = 0; m < inputM; m++) {
-		for (int k = 0; k < inputK; k++) {
-			cin >> map[m][k];
-			connected[map[m][k]].push_back(m);
-		}
-	}
+    queue<int> queue;
+    queue.push(1);
+    visited[1] = true;
+    depth[1] = 1;
+    while (!queue.empty()) {
+        int station = queue.front();
+        queue.pop();
 
-	queue<int> queue;
-	vector<bool> visited(inputM, false);
-	vector<int> countArr(inputN + 1, INT_MAX);
-	bool success = false;
-	countArr[1] = 1;
+        int size = map[station].size();
+        for (int i = 0; i < size; i++) {
+            int next = map[station][i];
+            if(!visited[next]) {
+                queue.push(next);
+                visited[next] = true;
+                if(next<=100000) depth[next] = depth[station] + 1;
+                else depth[next] = depth[station];
+            }
+        }
+    }
 
-	for (int i = 0; i < connected[1].size(); i++) {
-		int index = connected[1][i];
-		visited[index] = true;
-		for (int j = 0; j < map[index].size(); j++) {
-			if (map[index][j] != 1) {
-				queue.push(map[index][j]);
-				countArr[map[index][j]] = 2;
-			}
-		}
-	}
-
-	while (!queue.empty()) {
-		int node = queue.front();
-		int count = countArr[node];
-		queue.pop();
-
-		if (node == inputN) {
-			success = true;
-			break;
-		}
-
-		for (int i = 0; i < connected[node].size(); i++) {
-			int index = connected[node][i];
-			if (!visited[index]) {
-				for (int j = 0; j < map[index].size(); j++) {
-					if (map[index][j] != node && countArr[map[index][j]] > count + 1) {
-						queue.push(map[index][j]);
-						countArr[map[index][j]] = count + 1;
-					}
-				}
-				visited[index] = true;
-			}
-		}
-	}
-
-	if (success)
-		cout << countArr[inputN] << endl;
-	else
-		cout << "-1" << endl;
-	return 0;
+    printf("%d\n", depth[N]);
+    return 0;
 }
